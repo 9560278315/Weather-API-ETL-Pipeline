@@ -1,4 +1,4 @@
-# Used the following skills
+# Used below skills
 '''
 REST APIs
 Python
@@ -8,4 +8,4 @@ SQL
 ETL concepts
 '''
 
-new
+#new file
