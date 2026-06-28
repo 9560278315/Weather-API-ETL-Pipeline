@@ -1,4 +1,4 @@
-# Used below skills
+# Used the following skills
 '''
 REST APIs
 Python
